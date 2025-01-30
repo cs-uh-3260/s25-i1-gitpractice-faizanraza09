@@ -3,3 +3,5 @@
 A simple project to practice a few git/github workflows.  Update this file as instructed in [instructions](./instructions.md).
 
 ## Faizan Raza
+
+I commented on [sashank's repo](https://github.com/cs-uh-3260/s25-i1-gitpractice-sashankneupane) and here is the link to the [merged PR](https://github.com/cs-uh-3260/s25-i1-gitpractice-sashankneupane/pull/5)
